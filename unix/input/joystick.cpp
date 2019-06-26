@@ -57,7 +57,7 @@ AvailableJoystick::AvailableJoystick(std::string name):
 	mapping[JB_START] = 6;
 	mapping[JB_SELECT] = 7;
 	mapping[JB_ACCEL] = 8;
-	mapping[JB_QUIT] = 9;
+	mapping[JB_QUIT] = 6,7;
 }
 
 
